@@ -13,5 +13,5 @@
 - Xxx.test.tsx 测试用例
 - types.ts ts类型声明
 - style.css 样式
-- * constants.ts 常量
+- constants.ts 常量
 - index.ts
