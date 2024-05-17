@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
+    "build": "run-s build-only move-style",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
