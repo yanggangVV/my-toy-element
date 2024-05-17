@@ -30,6 +30,7 @@
     "vue": "^3.4.19",
     "@toy-element/hooks": "workspace:*",
     "@toy-element/utils": "workspace:*",
-    "@toy-element/theme": "workspace:*"
+    "@toy-element/theme": "workspace:*" ,
+    "toy-element": "workspace:*"
   }
 }
