@@ -6,3 +6,12 @@
 - thems：样式  
 - utils：工具函数  
 - play：平常写组件看效果的地方
+### 安装基础依赖
+### 创建各个分包入口
+### 每个组件的目录结构大致如下
+- Xxx.vue 每个组件逻辑
+- Xxx.test.tsx 测试用例
+- types.ts ts类型声明
+- style.css 样式
+- * constants.ts 常量
+- index.ts
