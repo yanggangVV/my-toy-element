@@ -1,4 +1,4 @@
-import { YgButton } from '@toy-element/components'
+import { ErButton } from '@toy-element/components'
 import type { Plugin } from 'vue'
 
-export default [YgButton] as Plugin[]
+export default [ErButton] as Plugin[]

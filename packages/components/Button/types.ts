@@ -19,3 +19,14 @@ export interface ButtonProps {
   useThrottle?: boolean;
   throttleDuration?: number;
 }
+
+export interface ButtonEmits {
+    (e: "click", value: MouseEvent): void;
+  }
+  
+  export interface ButtonInstance {
+    ref: Ref<HTMLButtonElement | void>;
+    disabled: ComputedRef<boolean>;
+    size: ComputedRef<string>;
+    type: ComputedRef<string>;
+  }
