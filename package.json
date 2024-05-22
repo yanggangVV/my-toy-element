@@ -37,6 +37,7 @@
     "@toy-element/hooks": "workspace:*",
     "@toy-element/utils": "workspace:*",
     "@toy-element/theme": "workspace:*" ,
+    "@toy-element/components": "workspace:*",
     "toy-element": "workspace:*"
   }
 }
